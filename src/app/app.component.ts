@@ -18,6 +18,5 @@ export class AppComponent {
       public AddressChange(address: any) {
         //setting address from API to local variable
          this.formattedaddress=address.formatted_address;
-         this.formattedaddress=address.
       }
 }
